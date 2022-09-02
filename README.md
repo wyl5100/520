@@ -26,7 +26,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 今天是我们恋爱的第{{love_day.DATA}}天 
 
-今天是我们异地的第{{love at a distance.DATA}}天
+今天是我们异地的第{{love at a distance_day.DATA}}天
 
 {{birthday1.DATA}} 
 {{birthday2.DATA}}
